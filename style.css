@@ -26,6 +26,7 @@
     color: rgb(217,188,63);
     text-decoration: underline;
 }
+
 .searchbox{
     display: inline-block;
     background-color: rgb(68,68,68);
@@ -53,7 +54,6 @@
     border-style:inset;
     border-color:gray;
     border-width:2px;
-   
 }
 
 .go{
@@ -84,10 +84,8 @@
     border-radius:5px;
     box-shadow: 2px 2px 5px black;
     height: 40px;
-   
-    
-    
 }
+
 h2{
     display: inline-block;
     margin-left: 15px;
@@ -96,11 +94,12 @@ h2{
     margin-top:-5px;
     line-height:50px;
     font-weight:normal;
-   
 }
+
 h3{
     display:inline;
 }
+
 .leftlist{
     margin-top: 10px;
     margin-left:0px;
@@ -148,7 +147,6 @@ h3{
     padding-top:1px;
     padding-bottom:20px;
     margin-top: 20px;
-    
 }
 
 .list{
@@ -169,6 +167,7 @@ h3{
     display:block;
     margin-top:10px;
 }
+
 .lefttext{
     margin-right: 76px;
     margin-left:20px;
@@ -205,7 +204,6 @@ h4{
     text-align: center;
     background: linear-gradient(rgb(36,80,139),rgb(51,117,172));
     padding-bottom: 5px;
-    
 }
 
 .bottomtext{
