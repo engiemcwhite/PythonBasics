@@ -68,12 +68,12 @@
     border-width: 1px;
     border-style: outset;
     padding-top: 7px;
+    vertical-align: middle;
 }
 
-.gotext{
+/*.gotext{
    display: inline-block;
-   vertical-align: middle;
-}
+}*/
 
 .navbar{
     display: block;
@@ -151,6 +151,10 @@ h3{
 
 .list{
     color: rgb(121,171,214);
+}
+
+.whitebox li{
+    list-style-type: square;
 }
 
 .leftbox{
